@@ -1,0 +1,13 @@
+body{
+    background: url('/static/images/background.jpg') ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    
+}
+h1{
+    color: rgb(1, 0, 76);
+    font-size: 5rem;
+    font-weight: bold;
+}
